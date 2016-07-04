@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name1">Mis Mascotas</string>
+    <string name="app_name"></string>
+    <string name="nombreMascota">Franz Mayer</string>
+    <string name="RateMascota">55557777</string>
+    <string name="emailMascota">fmayerb@gmail.com</string>
+
+    <string name="prate">Rate</string>
+    <string name="pnombre">Nombre</string>
+    <string name="title_activity_contacto">Contacto</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
